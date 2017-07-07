@@ -1,41 +1,32 @@
 html {
-  font-family: Helvetica;
-}
-
-.pageHeader {
+  font-family: Verdana;
   text-align: center;
-  font-size: 70px;
-  color:khaki;
-  background-image: url('../images/pattern.jpeg');
-  font-weight: bold;
+  background-color: black;
 }
 
-.product {
-
+.pageTitle {
+  font-size: 50px;
+  color:white;
+  font-weight: normal;
 }
 
-.sectionHeader {
-  font-size: 32px;
-  color: white;
-  font-weight: bold;
+.download a{
+  font-size: 16px;
+  color: Aquamarine;
 }
 
-.imgProduct {
+.subtitle{
+  font-size: 42px;
+  color:white;
+  font-weight: 300;
 }
 
-.price {
-  color: blue;
-  font-weight: bold;
+.purpose{
+  font-size: 21px;
+  color:gray;
 }
 
-.teal {
-  background-color: mediumspringgreen;
-}
-
-.pink {
-  background-color: lightcoral;
-}
-
-.blue {
-  background-color: skyblue;
+.copyright{
+  color:gray;
+  text-align: right;
 }
